@@ -1,0 +1,15 @@
+ Exercício 06 – Cadastro Simples de Produtos
+Permite ao usuário cadastrar 3 produtos informando nome, preço e quantidade. Após o cadastro, exibe o valor total em estoque de cada produto, calculado como preço × quantidade.
+
+ Exercício 07 – Soma de Números Pares de um Array
+Solicita 10 números inteiros ao usuário, armazena em um array e calcula a soma de todos os números pares informados.
+
+ Exercício 08 – Cálculo de IMC com Classificação
+Recebe o peso (em kg) e altura (em metros) do usuário, calcula o IMC com a fórmula padrão e exibe a classificação de acordo com a faixa do resultado.
+
+ Exercício 09 – Jogo da Adivinhação
+Gera aleatoriamente um número entre 1 e 100. O usuário tenta adivinhar e, após cada tentativa, o programa informa se o número secreto é maior ou menor. Exibe o total de tentativas ao final.
+
+
+ Exercício 10 – Lista de Tarefas (To-Do List)
+Permite adicionar tarefas a uma lista enquanto o usuário desejar. Ao final, solicita que ele marque cada tarefa como concluída ou não, e exibe todas com o respectivo status pendente ou concluída.
