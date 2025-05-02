@@ -1,0 +1,25 @@
+
+
+1. Validador de Senhas Fortes
+
+Peça ao usuário para inserir uma senha e verifique se ela é forte. Para isso, a senha precisa ter pelo menos 8 caracteres, incluir pelo menos uma letra maiúscula, um número e um caractere especial como !, @ ou #.
+
+
+2. Tabuada Completa com Laço
+
+Solicite ao usuário um número e mostre a tabuada dele de 1 a 10, usando um laço de repetição do tipo for.
+
+
+3. Cálculo de Fatorial com while
+
+Peça ao usuário um número inteiro positivo e calcule o fatorial dele usando um laço do tipo while.
+
+
+4. Conversor de Temperaturas com Menu
+
+Mostre um menu com opções para converter temperaturas entre Celsius e Fahrenheit. O programa deve ficar rodando até que o usuário escolha sair. Para isso, utilize um laço while e uma estrutura switch.
+
+
+5. Verificador de Palíndromos
+
+Peça ao usuário uma palavra ou frase e verifique se ela é um palíndromo — ou seja, se lê igual de trás para frente, ignorando espaços e diferenças de maiúsculas e minúsculas.
